@@ -1,0 +1,10 @@
+
+Dependencies 
+lombok developer tools 
+spring web  
+spring data jpa sql
+mysql driver 
+thymleaf templates engine 
+
+
+on java version check computer java version first i.e java -version 
